@@ -1,5 +1,5 @@
-# **Privacy Preserving eCommerce**
-A framework for conducting ecommerce in a way that uses Bitcoin to preserve the privacy of all parties involved
+# **Mithril**
+A framework for conducting ecommerce in a way that uses Bitcoin to preserve the privacy of all parties involved. Mithril is not so much a new technology, but rather a crafting of existing technologies into a protective chain mail.
 
 ## Table of Contents
 1. [Introduction](#introduction)
