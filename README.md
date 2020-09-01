@@ -21,7 +21,7 @@ It is essential to protect the personal identity of all parties involved as this
 
 ## Bitcoin
 
-This framework relies on the finality and push-only nature of Bitcoin payments. This finality means that payment processors and stores do not need "information collateral" AKA personally identifying information to protect them from fraud and chargebacks. This means that even if pressure is put on those you depend on, they don't have that information to give up. For a deeper explanation of this, see [Bitcoin](bitcoin.md)
+This framework relies on the finality and push-only nature of Bitcoin payments. This finality means that payment processors and stores do not need "information collateral" AKA personally identifying information to protect them from fraud and chargebacks. This means that even if pressure is put on those you depend on, they don't have that information to give up. For a deeper explanation of this, see the "Bitcoin Fixes This" section of [The Problem](the-problem.md)
 
 ## Open Source Stack
 
